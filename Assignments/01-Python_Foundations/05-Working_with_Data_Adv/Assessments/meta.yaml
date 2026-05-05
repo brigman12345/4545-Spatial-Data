@@ -1,0 +1,8 @@
+title: Assignment Title Here
+course: Course Name Here
+type: assignment
+due: null
+points: null
+notebooks:
+- mini_quiz.ipynb
+created_from: auto
