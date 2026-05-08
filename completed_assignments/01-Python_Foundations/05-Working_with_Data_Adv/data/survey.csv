@@ -1,0 +1,121 @@
+student_id,age,gender,major,gpa,study_hours_per_week,satisfaction_1_5,survey_date,dorm_resident,expected_grad_year,income_range,commute_minutes,clubs_member,attendance_rate,favorite_language,comments
+S10000,N/A,Male,Computer Science,,,2,2025-13-40,Yes,2027,>$100k,54,TRUE,105%,JavaScript,Love the course.
+S10001,,Male,CompSci,3.75,-3,,,Yes,,,,1,,Rust,Lectures are 🔥
+S10002,23,Male,Data Science,,20,5,2025-13-40,,2027,$75k-$100k,N/A,,64%,JavaScript,
+S10003,N/A,Female,History,5.1,,,,No,,$25k-$50k,15,No,105%,Rust,
+S10004,N/A,Female,CompSci,,0,5,2025-13-40,Yes,2029,Prefer not to say,41,No,N/A,Python,N/A
+S10005,22,Male,Biology,"4,0",20,4,,,twenty28,$25k-$50k,,No,N/A,Rust,
+S10006,,Prefer not to say,Business,,N/A,2,2025-09-07,N,2028,,0,FALSE,N/A,SQL,Need more examples.
+S10007,,Non-binary,CompSci,3.69,,five,2025-13-40,,2027,$50k-$75k,,0,,Rust,Love the course.
+S10008,,Male,History,"4,0",ten,3,10/18/2025,Yes,2026,>$100k,-5,TRUE,,Go,Love the course.
+S10009,18,Female,,3.88,N/A,2,11/08/2025,N,twenty28,>$100k,N/A,1,N/A,JavaScript,Too much homework.
+S10010,N/A,Non-binary,CS,N/A,ten,4,09-Sep-2025,Y,2029,>$100k,28,FALSE,74%,Python,
+S10011,18,Non-binary,Data Science,,N/A,4,11/09/2025,No,twenty28,$25k-$50k,0,No,,C++,Love the course.
+S10012,24,Prefer not to say,CS,3.7,,1,2025-13-40,,2027,$25k-$50k,45 min,0,,SQL,Too much homework.
+S10013,25,Female,Data Science,5.1,-3,2,2025-13-40,Yes,2026,<$25k,,1,N/A,,Need more examples.
+S10014,18,Female,Undeclared,N/A,N/A,5,2025-13-40,No,twenty28,$25k-$50k,N/A,No,80%,Python,Love the course.
+S10015,18,,CS,5.1,,1,2025-11-05,N,2027,>$100k,45 min,1,105%,JavaScript,Love the course.
+S10016,18,,Data Science,"4,0",-3,,10/04/2025,No,,$25k-$50k,0,Yes,,Rust,
+S10017,19,Male,CS,"4,0",,five,,,2028,$50k-$75k,45 min,,105%,Java,Lectures are 🔥
+S10018,twenty,Non-binary,,5.1,-3,1,,,2027,$25k-$50k,,FALSE,,Java,
+S10019,,Female,Business,3.75,12.5,five,02-Nov-2025,Y,2027,Prefer not to say,N/A,TRUE,,Go,Love the course.
+S10020,20,Prefer not to say,CompSci,"4,0",,2,11/28/2025,Yes,2026,,,1,,Python,Too much homework.
+S10021,18,Non-binary,Biology,3.75,20,five,,No,2028,$25k-$50k,,1,N/A,Java,Love the course.
+S10022,N/A,Female,History,3.75,0,1,10/31/2025,N,twenty28,$50k-$75k,45 min,No,,JavaScript,Love the course.
+S10023,22,Male,History,"4,0",-3,,2025-09-04,,2028,>$100k,33,FALSE,,SQL,
+S10024,24,,CompSci,"4,0",12.5,1,,Y,2029,$50k-$75k,,,,Go,
+S10025,,Non-binary,Undeclared,3.75,-3,3,,No,2030,Prefer not to say,N/A,1,,Python,
+S10026,21,Prefer not to say,,,N/A,N/A,11/26/2025,Yes,twenty28,,,,,Go,
+S10027,N/A,Non-binary,Biology,,0,4,,Y,twenty28,$75k-$100k,45 min,1,,SQL,Need more examples.
+S10028,N/A,Male,Data Science,,-3,N/A,,N,2027,$75k-$100k,-5,,105%,,N/A
+S10029,24,,CS,3.75,N/A,N/A,10/04/2025,No,,,-5,No,,,Lectures are 🔥
+S10030,21,Non-binary,Business,"4,0",,3,,No,2028,Prefer not to say,,1,N/A,Go,Need more examples.
+S10031,24,Male,Biology,N/A,28,,2025-11-01,,,,0,No,N/A,JavaScript,Need more examples.
+S10032,25,Male,Undeclared,3.75,0,3,10/30/2025,Yes,2026,$75k-$100k,75,FALSE,N/A,SQL,
+S10033,20,Male,History,,20,,19-Oct-2025,,,,-5,TRUE,,Python,
+S10034,N/A,Male,Computer Science,,6,3,10/01/2025,,2027,>$100k,-5,,105%,Go,N/A
+S10035,,Male,Math,3.92,18,5,2025-13-40,,2030,Prefer not to say,,No,98%,Rust,Love the course.
+S10036,,Male,Business,3.75,,five,22-Nov-2025,Y,2030,,,1,N/A,,Lectures are 🔥
+S10037,20,,History,"4,0",N/A,N/A,2025-13-40,Yes,,$50k-$75k,,,105%,JavaScript,Need more examples.
+S10038,,Prefer not to say,Business,5.1,,N/A,28-Sep-2025,,,$50k-$75k,N/A,TRUE,,JavaScript,
+S10039,twenty,Prefer not to say,CS,,N/A,N/A,2025-10-28,Y,,$25k-$50k,45 min,,105%,Go,
+S10040,,Non-binary,Undeclared,"4,0",20,N/A,05-Oct-2025,,2029,<$25k,15,FALSE,,Java,
+S10041,twenty,Prefer not to say,History,5.1,12.5,2,25-Sep-2025,N,,$25k-$50k,38,Yes,105%,Python,Lectures are 🔥
+S10042,22,Female,CS,2.03,12.5,N/A,,,2028,<$25k,-5,FALSE,N/A,C++,N/A
+S10043,19,,Computer Science,5.1,12.5,2,2025-10-02,Yes,2030,>$100k,45 min,1,105%,,Need more examples.
+S10044,24,Non-binary,,"4,0",,4,11/20/2025,,2027,$25k-$50k,,FALSE,N/A,Python,Too much homework.
+S10045,twenty,,CS,,12.5,N/A,2025-13-40,N,,,45 min,1,,JavaScript,Love the course.
+S10046,20,Male,Computer Science,,12.5,N/A,,No,,Prefer not to say,N/A,0,98%,C++,Need more examples.
+S10047,24,Non-binary,,2.35,7,5,2025-11-13,N,twenty28,>$100k,-5,,N/A,SQL,Too much homework.
+S10048,19,Prefer not to say,Business,,,3,,No,twenty28,$50k-$75k,0,TRUE,,C++,Need more examples.
+S10049,23,Male,Undeclared,5.1,-3,N/A,2025-10-23,N,,>$100k,-5,TRUE,,Rust,Too much homework.
+S10050,22,Prefer not to say,CS,3.75,ten,3,,Y,2030,<$25k,,0,,Java,Love the course.
+S10051,,Non-binary,Undeclared,N/A,N/A,five,,N,2028,,N/A,1,,Rust,Lectures are 🔥
+S10052,twenty,Non-binary,,3.75,,N/A,,,,>$100k,0,0,105%,JavaScript,Lectures are 🔥
+S10053,24,Female,Undeclared,3.75,0,,2025-13-40,N,twenty28,<$25k,15,FALSE,105%,,N/A
+S10054,25,Male,Math,3.75,,N/A,04-Oct-2025,Yes,2030,Prefer not to say,15,1,94%,,Lectures are 🔥
+S10055,,Male,Biology,,,,2025-13-40,No,2027,$75k-$100k,N/A,TRUE,,Go,Love the course.
+S10056,23,Non-binary,Undeclared,"4,0",,3,2025-09-23,Yes,2030,>$100k,45 min,0,N/A,Java,
+S10057,N/A,Non-binary,CS,2.36,N/A,5,,N,2027,$75k-$100k,N/A,1,,Rust,
+S10058,21,Prefer not to say,CS,N/A,20,5,29-Nov-2025,Y,2030,$50k-$75k,1,0,105%,Rust,N/A
+S10059,23,Female,Biology,3.75,,2,2025-13-40,Y,,,56,,,Java,
+S10060,23,Prefer not to say,Math,5.1,20,five,04-Nov-2025,N,,,N/A,,89%,C++,N/A
+S10061,20,Female,Undeclared,5.1,20,2,2025-10-21,,2027,$75k-$100k,N/A,1,,Go,N/A
+S10062,25,Male,,"4,0",ten,2,,No,,Prefer not to say,,Yes,N/A,Python,Love the course.
+S10063,19,Male,Biology,,N/A,,2025-13-40,No,2030,>$100k,0,FALSE,N/A,,N/A
+S10064,22,Male,Business,N/A,ten,,2025-13-40,,,<$25k,N/A,No,,,Love the course.
+S10065,N/A,,Computer Science,,,4,,N,2029,,15,Yes,,Python,N/A
+S10066,20,,History,3.56,21,3,02-Sep-2025,N,,<$25k,N/A,TRUE,93%,SQL,Too much homework.
+S10067,twenty,Male,CS,,,N/A,11/04/2025,Yes,2026,Prefer not to say,N/A,0,N/A,Python,
+S10068,24,Prefer not to say,Data Science,N/A,,,11/17/2025,Y,2028,$50k-$75k,15,1,105%,Rust,
+S10069,,Prefer not to say,Data Science,3.54,-3,4,,N,2030,$50k-$75k,0,1,N/A,C++,
+S10070,23,Non-binary,Business,3.75,N/A,2,2025-09-12,Y,2030,<$25k,,TRUE,N/A,Go,
+S10071,23,Prefer not to say,Computer Science,"4,0",20,2,,N,2028,Prefer not to say,45 min,FALSE,,Go,Lectures are 🔥
+S10072,,Female,Undeclared,5.1,-3,1,2025-13-40,No,,<$25k,N/A,,,Go,Lectures are 🔥
+S10073,20,,Undeclared,3.75,20,2,11/07/2025,,2030,$75k-$100k,,,105%,Go,Lectures are 🔥
+S10074,19,Male,Math,"4,0",,5,2025-13-40,,twenty28,>$100k,0,,N/A,C++,Too much homework.
+S10075,19,Non-binary,,3.75,9,4,,Y,2026,$25k-$50k,45 min,Yes,,Rust,N/A
+S10076,19,Male,CS,,0,five,11/30/2025,Yes,,<$25k,50,1,,,Love the course.
+S10077,,Prefer not to say,,3.75,12.5,2,2025-10-22,,2028,,-5,,,SQL,Love the course.
+S10078,24,,Undeclared,N/A,12.5,,29-Sep-2025,N,2027,>$100k,,No,,Go,N/A
+S10079,21,Male,Math,,,2,2025-13-40,,twenty28,,-5,,N/A,Go,N/A
+S10080,19,Prefer not to say,CS,5.1,8,,2025-11-04,,twenty28,$75k-$100k,4,,64%,Rust,N/A
+S10081,,,CompSci,"4,0",17,N/A,2025-13-40,N,,>$100k,,TRUE,81%,C++,Need more examples.
+S10082,,Female,Computer Science,N/A,-3,five,11/18/2025,,,$50k-$75k,0,,,Python,
+S10083,19,Non-binary,Data Science,N/A,12.5,3,2025-10-13,Yes,2028,$50k-$75k,0,Yes,105%,C++,
+S10084,24,Non-binary,Math,5.1,-3,2,2025-13-40,,,<$25k,N/A,Yes,,Go,Too much homework.
+S10085,21,Female,Math,5.1,,five,2025-13-40,Yes,2026,Prefer not to say,,1,105%,Java,Too much homework.
+S10086,20,Prefer not to say,Computer Science,3.75,ten,N/A,18-Nov-2025,No,twenty28,$25k-$50k,45 min,,,,N/A
+S10087,N/A,,CS,,0,five,,N,2029,,,,105%,,Love the course.
+S10088,19,,Data Science,5.1,12.5,N/A,11/05/2025,,2027,$25k-$50k,15,TRUE,105%,Python,Need more examples.
+S10089,23,Female,Undeclared,,7,,2025-13-40,No,,,,TRUE,N/A,,Lectures are 🔥
+S10090,25,,Computer Science,3.79,ten,3,2025-13-40,Yes,2030,<$25k,45 min,,N/A,Python,Love the course.
+S10091,N/A,,CS,5.1,N/A,five,2025-13-40,Yes,2029,Prefer not to say,N/A,1,105%,Go,Love the course.
+S10092,24,Female,Data Science,,-3,five,,Yes,2026,$75k-$100k,60,1,,Rust,Lectures are 🔥
+S10093,19,Non-binary,Biology,3.75,20,3,06-Sep-2025,Yes,,,,0,,,
+S10094,20,Male,CS,,ten,1,11-Oct-2025,Yes,2030,,-5,,,JavaScript,Love the course.
+S10095,18,Non-binary,History,,0,N/A,20-Oct-2025,N,twenty28,Prefer not to say,15,,87%,C++,N/A
+S10096,24,,Math,,,,24-Nov-2025,,twenty28,>$100k,,0,,,Lectures are 🔥
+S10097,,Prefer not to say,History,5.1,30,2,2025-13-40,,,>$100k,,TRUE,,,Too much homework.
+S10098,19,Female,Business,"4,0",,N/A,18-Oct-2025,,2027,>$100k,15,1,75%,Rust,Lectures are 🔥
+S10099,18,Female,CS,"4,0",12.5,5,,N,,Prefer not to say,45 min,FALSE,,C++,Too much homework.
+S10100,twenty,Prefer not to say,Data Science,5.1,20,2,,,,,,,,JavaScript,
+S10101,20,Female,CS,"4,0",20,N/A,11/10/2025,Yes,2027,<$25k,0,0,105%,SQL,
+S10102,19,Female,Business,N/A,-3,,,No,2028,,0,TRUE,,C++,N/A
+S10103,22,Female,Math,3.75,20,five,2025-10-07,,2029,Prefer not to say,N/A,Yes,105%,Rust,
+S10104,19,,Math,"4,0",,,2025-11-12,Y,2027,<$25k,N/A,No,99%,SQL,N/A
+S10105,25,,History,,ten,,,Y,2026,$25k-$50k,0,0,105%,JavaScript,Need more examples.
+S10106,20,Non-binary,Business,5.1,0,3,,Yes,2027,$50k-$75k,-5,FALSE,,,Lectures are 🔥
+S10107,19,Male,History,5.1,0,4,21-Sep-2025,Yes,,$25k-$50k,-5,0,91%,Rust,Need more examples.
+S10108,19,Prefer not to say,CompSci,,20,1,07-Sep-2025,,twenty28,$50k-$75k,68,FALSE,,Java,Need more examples.
+S10109,24,Non-binary,Computer Science,"4,0",ten,,10-Nov-2025,Y,2030,>$100k,N/A,FALSE,,C++,Too much homework.
+S10110,23,,Business,,-3,,2025-11-04,Y,2026,$25k-$50k,-5,0,105%,Java,Too much homework.
+S10111,23,Female,Undeclared,3.75,12.5,,,Yes,twenty28,Prefer not to say,N/A,0,,Python,N/A
+S10112,N/A,Male,Undeclared,5.1,28,N/A,2025-13-40,Yes,2029,Prefer not to say,-5,Yes,,SQL,
+S10113,18,,Data Science,N/A,0,3,2025-13-40,N,2030,>$100k,-5,TRUE,,Java,
+S10114,,Non-binary,CS,,,N/A,08-Nov-2025,Yes,,Prefer not to say,N/A,0,105%,JavaScript,Too much homework.
+S10115,22,Female,History,3.75,N/A,,01-Nov-2025,Yes,,$50k-$75k,0,1,,Go,N/A
+S10116,18,Non-binary,Data Science,N/A,12.5,N/A,09/28/2025,Yes,,>$100k,N/A,Yes,75%,JavaScript,Love the course.
+S10117,N/A,,Biology,3.2,0,,2025-10-31,No,2028,<$25k,,1,,,
+S10118,22,Non-binary,History,5.1,ten,five,09/05/2025,,2028,<$25k,-5,Yes,62%,Rust,
+S10119,22,,,,N/A,five,,N,twenty28,$50k-$75k,,,,,Too much homework.

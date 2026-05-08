@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.4934, 33.9137] },
+      "properties": { "name": "Wichita Falls City Hall", "type": "government" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.5187, 33.8956] },
+      "properties": { "name": "Midwestern State University", "type": "education" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.5457, 33.8627] },
+      "properties": { "name": "Lake Wichita", "type": "water" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.5071, 33.9281] },
+      "properties": { "name": "Lucy Park", "type": "park" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-98.5187, 33.8956],
+          [-98.5100, 33.9050],
+          [-98.4934, 33.9137]
+        ]
+      },
+      "properties": { "name": "MSU to City Hall route", "type": "route" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.5150, 33.8580],
+          [-98.5360, 33.8580],
+          [-98.5360, 33.8700],
+          [-98.5150, 33.8700],
+          [-98.5150, 33.8580]
+        ]]
+      },
+      "properties": { "name": "Lake Wichita Park", "type": "park" }
+    }
+  ]
+}

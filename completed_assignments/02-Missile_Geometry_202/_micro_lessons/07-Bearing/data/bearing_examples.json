@@ -1,0 +1,53 @@
+{
+  "cardinal_directions": [
+    { "name": "North",     "bearing": 0,   "description": "Straight up on a map" },
+    { "name": "East",      "bearing": 90,  "description": "Right on a map" },
+    { "name": "South",     "bearing": 180, "description": "Straight down on a map" },
+    { "name": "West",      "bearing": 270, "description": "Left on a map" }
+  ],
+  "intercardinal_directions": [
+    { "name": "Northeast", "bearing": 45  },
+    { "name": "Southeast", "bearing": 135 },
+    { "name": "Southwest", "bearing": 225 },
+    { "name": "Northwest", "bearing": 315 }
+  ],
+  "city_pairs": [
+    {
+      "from": { "name": "Wichita Falls", "lon": -98.49, "lat": 33.91 },
+      "to":   { "name": "Oklahoma City", "lon": -97.52, "lat": 35.47 },
+      "approximate_bearing": 19,
+      "description": "Mostly north, slight east"
+    },
+    {
+      "from": { "name": "Wichita Falls", "lon": -98.49, "lat": 33.91 },
+      "to":   { "name": "Dallas",        "lon": -96.80, "lat": 32.78 },
+      "approximate_bearing": 144,
+      "description": "Southeast"
+    },
+    {
+      "from": { "name": "Wichita Falls", "lon": -98.49, "lat": 33.91 },
+      "to":   { "name": "Lubbock",       "lon": -101.87, "lat": 33.57 },
+      "approximate_bearing": 264,
+      "description": "Nearly due west, slight south"
+    },
+    {
+      "from": { "name": "Wichita Falls", "lon": -98.49, "lat": 33.91 },
+      "to":   { "name": "Altus AFB",     "lon": -99.27, "lat": 34.66 },
+      "approximate_bearing": 330,
+      "description": "Northwest"
+    }
+  ],
+  "common_mistakes": [
+    {
+      "mistake": "Treating bearing like a math angle",
+      "math_convention": "0° points East, increases counter-clockwise",
+      "bearing_convention": "0° points North, increases clockwise",
+      "consequence": "A bearing of 90° (East) becomes 0° in math — formulas must convert"
+    },
+    {
+      "mistake": "Forgetting to normalize",
+      "example": "atan2 can return -45° — which is not a valid bearing",
+      "fix": "(degrees + 360) % 360 always gives a value in [0, 360)"
+    }
+  ]
+}

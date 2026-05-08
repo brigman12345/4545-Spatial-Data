@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alpha",
+        "origin": "Washington D.C.",
+        "destination": "Tehran"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.009,
+            38.889
+          ],
+          [
+            51.388,
+            35.695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bravo",
+        "origin": "Pyongyang",
+        "destination": "Honolulu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.738,
+            39.02
+          ],
+          [
+            -157.855,
+            21.305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlie",
+        "origin": "Caracas",
+        "destination": "Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.879,
+            10.488
+          ],
+          [
+            -3.703,
+            40.417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta",
+        "origin": "Moscow",
+        "destination": "Riyadh"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.617,
+            55.755
+          ],
+          [
+            46.675,
+            24.688
+          ]
+        ]
+      }
+    }
+  ]
+}
